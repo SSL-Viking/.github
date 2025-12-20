@@ -1,10 +1,20 @@
 # SSL-Narwhal - A computer technology enthusiasts club from the shores of Songshan Lake
 > Self-Confidence and Self-Reliance, Openness and Inclusiveness
 
-<div class="image-container" style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0;">
-  <img src="./picture/Narwhal-logo.png" alt="ZER0x13 Logo" style="max-width: 48%; height: auto;">
-  <img src="./picture/DGSSLNO13HS.jpg" alt="DGSSLNO13HS" style="max-width: 48%; height: auto;">
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./picture/Narwhal-logo.png" alt="ZER0x13 Logo" style="max-width: 100%; height: auto;">
+    </td>
+    <td align="center" width="50%">
+      <img src="./picture/DGSSLNO13HS.jpg" alt="DGSSLNO13HS" style="max-width: 100%; height: auto;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><small>SSL-Narwhal</small></td>
+    <td align="center"><small>Dongguan No.13 High School</small></td>
+  </tr>
+</table>
 
 ## 🔬 Our Research
 - **Program Language**
